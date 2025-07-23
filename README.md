@@ -24,8 +24,8 @@ This map is built for the **English** language.
 
 Map by **DanTheDude**
 
-Hot Air Balloon by [Trydar](https://www.planetminecraft.com/member/trydar/)
+Hot Air Balloon by **[Trydar](https://www.planetminecraft.com/member/trydar/)**
 
-Ship Builds by [SirBlake_](https://www.planetminecraft.com/member/sirblake_/)
+Ship Builds by **[SirBlake_](https://www.planetminecraft.com/member/sirblake_/)**
 
-Palm Tree Pack by [ChaosOlymp](https://www.planetminecraft.com/member/chaosolymp/)
+Palm Tree Pack by **[ChaosOlymp](https://www.planetminecraft.com/member/chaosolymp/)**
