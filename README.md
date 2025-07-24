@@ -1,5 +1,3 @@
-<img width="1920" height="562" alt="PC-Logo-01" src="https://github.com/user-attachments/assets/0883eda5-cc06-4160-9226-749515d7eb4a" />
-
 # Parkour Country
 
 ## Overview
